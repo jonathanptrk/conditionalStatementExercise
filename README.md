@@ -1,4 +1,4 @@
-# conditionalStatementExercises
+# conditionalStatementExercise
 Crie um algoritmo que receba os dados (nome e idade) digitados pelo usuário e identifique em qual categoria o atleta se encontra através da sua idade, imprima quando o atleta irá participar sendo:  
 
 - De 7 até 14 categoria Infantil; 
