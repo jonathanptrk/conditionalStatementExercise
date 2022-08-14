@@ -1,0 +1,2 @@
+# conditionalStatementExercises
+Crie um algoritmo que receba os dados (nome e idade) digitados pelo usuário e identifique em qual categoria o atleta se encontra através da sua idade, imprima quando o atleta irá participar sendo:  - De 7 até 14 categoria Infantil; - De 15 até os 17 categoria Juvenil; - De 18 até os 21 categoria Júnior; - de 22 até os 45 categoria Adulto;  Infantil = Participa na segunda feira das 7 ás 12h; Juvenil = Participa na terça-feira das 9 ás 14h; Júnior = Participa na quarta-feira das 8 ás 13h; Adulto = Participa na quinta-feira das 18 ás 21h;
