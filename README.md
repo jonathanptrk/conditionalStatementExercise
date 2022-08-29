@@ -12,7 +12,7 @@ Júnior = Participa na quarta-feira das 8h ás 13h;
 Adulto = Participa na quinta-feira das 18h ás 21h;
 
 import java.util.Scanner;
-public class estruturasCondicionais {
+public class EstruturasCondicionais {
     public static void main(String[] args) {
 
         System.out.println("Digite o seu nome completo: ");
